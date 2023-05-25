@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "crypto-js": "^4.1.1",
-    "prompt-sync": "^4.2.0",
-    "secure-random": "^1.1.2"
-  }
-}
